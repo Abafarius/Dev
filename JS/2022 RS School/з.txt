@@ -1,0 +1,18 @@
+1. Task: https://github.com/rolling-scopes-school/tasks/blob/master/tasks/cv/html-css-git.md
+2. Screenshot:
+![task 2 html css cv](https://user-images.githubusercontent.com/80694393/190866185-0ad6b637-6a5b-4b7b-a699-9f6d7c3b5772.png)
+3. Deploy: https://abafarius.github.io/rsschool-cv/
+4. Done 17.09.2022 / deadline 28.09.2022
+5. Score: 100 / 100 
+- Требования к репозиторию (50/50)
+  - [x] Создан публиный репозиторий с названием rsschool-cv (10)
+  - [x] В репозитории rsschool-cv в главной ветке (main) находится только README.md файл (10)
+  - [x] От ветки gh-pages создана ветка rs-school-html (10)
+  - [x] В ветке rs-school-html размещены файлы index.html и css.style (10)
+  - [x] Выполнены все рекомендации по CV (10)
+- Требования к коммитам и Pull Request (50/50)
+  - [x] Сделаны не меньше 3-х коммитов (10)
+  - [x] Выполнены все требования Pull Request (30)
+  - [x] Pull request замержен из ветки rsschool-cv-html в ветку gh-pages (10/10)
+refactor: change doctype to uppercase
+refactor: remove spaces
